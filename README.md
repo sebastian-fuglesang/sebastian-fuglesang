@@ -1,16 +1,15 @@
-##Sebastian Fuglesang
+## Sebastian Fuglesang
 
 Hi, my name is Sebastian Fuglesang. 
 I am a 25 year old CS student at NTNU currently in my fourth year of my five year degree. 
 
 I am interested in fullstack development, automation, data science and information security.
 
-Aside from my studies I am currently learning data science with this course at Udemy. Link: https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/
+Aside from my studies I am currently learning data science with this [course](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) at Udemy. 
 
 In my part time job as a fullstack developer at Publizm I am also increasing my knowledge as a fullstack developer.
 Personally I have contributed heavily to the audiobook player, catalogue for books and authors, and the detailed view of authors among other things.
 In this project I have worked primarily with Typescript, React, SCSS and Firebase.
-
 Link: https://publizm.no/
 
 
@@ -18,7 +17,6 @@ Finally, I also work freelance as fullstack developer and I personally made the 
 I am most satisfied with the admin functionality for this page. The admin can login and administrate news posts and refrences for the other users to view.
 They can also receive orders from customers, display them and mark them as done.
 This project is implemented using Typescript, React and Firebase.
-
 Link: https://hygotech.com
 
 📫 I can be reached on sebastian.fuglesang@hotmail.com.
