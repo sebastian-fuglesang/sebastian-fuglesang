@@ -4,10 +4,10 @@ Hi, my name is Sebastian Fuglesang.
 I am a 25 year old CS student at NTNU currently in my fourth year of my five year degree. 
 
 I am interested in: 
--Fullstack development
--Automation
--Data science
--Information security.
+- Fullstack development
+- Automation
+- Data science
+- Information security.
 
 Aside from my studies I am currently learning data science with this [course](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) at Udemy. 
 
